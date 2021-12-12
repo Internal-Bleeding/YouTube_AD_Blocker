@@ -10,5 +10,5 @@ Features:
 
 -Automatic Skipping: It should skip ADs automatically (But It only does when it wants to) 
 -
-Works only in Chrome as an extension!!!
--
+# Works only in Chrome as an extension!!!
+
