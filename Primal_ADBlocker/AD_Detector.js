@@ -73,7 +73,7 @@ function DetectButton()
     {
         
     } */
-    let SkipButton = document.getElementsByClassName('ytp-ad-skip-button ytp-button')[0];
+    let SkipButton = document.getElementsByClassName('ytp-ad-skip-button-modern ytp-button')[0];
     SkipButton.click(); 
     
 }
